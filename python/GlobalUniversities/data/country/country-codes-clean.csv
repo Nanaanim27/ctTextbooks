@@ -1,0 +1,251 @@
+ISO3166-1-Alpha-3,ISO3166-1-numeric,ISO3166-1-Alpha-2,official_name_fr,ISO4217-currency_name,UNTERM English Short,CLDR display name
+TWN,158,TW,,,,Taiwan
+AFG,4,AF,Afghanistan,Afghani,Afghanistan,Afghanistan
+ALB,8,AL,Albanie,Lek,Albania,Albania
+DZA,12,DZ,Algérie,Algerian Dinar,Algeria,Algeria
+ASM,16,AS,Samoa américaines,US Dollar,,American Samoa
+AND,20,AD,Andorre,Euro,Andorra,Andorra
+AGO,24,AO,Angola,Kwanza,Angola,Angola
+AIA,660,AI,Anguilla,East Caribbean Dollar,,Anguilla
+ATA,10,AQ,Antarctique,No universal currency,,Antarctica
+ATG,28,AG,Antigua-et-Barbuda,East Caribbean Dollar,Antigua and Barbuda,Antigua & Barbuda
+ARG,32,AR,Argentine,Argentine Peso,Argentina,Argentina
+ARM,51,AM,Arménie,Armenian Dram,Armenia,Armenia
+ABW,533,AW,Aruba,Aruban Florin,,Aruba
+AUS,36,AU,Australie,Australian Dollar,Australia,Australia
+AUT,40,AT,Autriche,Euro,Austria,Austria
+AZE,31,AZ,Azerbaïdjan,Azerbaijan Manat,Azerbaijan,Azerbaijan
+BHS,44,BS,Bahamas,Bahamian Dollar,Bahamas (the),Bahamas
+BHR,48,BH,Bahreïn,Bahraini Dinar,Bahrain,Bahrain
+BGD,50,BD,Bangladesh,Taka,Bangladesh,Bangladesh
+BRB,52,BB,Barbade,Barbados Dollar,Barbados,Barbados
+BLR,112,BY,Bélarus,Belarusian Ruble,Belarus,Belarus
+BEL,56,BE,Belgique,Euro,Belgium,Belgium
+BLZ,84,BZ,Belize,Belize Dollar,Belize,Belize
+BEN,204,BJ,Bénin,CFA Franc BCEAO,Benin,Benin
+BMU,60,BM,Bermudes,Bermudian Dollar,,Bermuda
+BTN,64,BT,Bhoutan,"Indian Rupee,Ngultrum",Bhutan,Bhutan
+BOL,68,BO,Bolivie (État plurinational de),Boliviano,Bolivia (Plurinational State of),Bolivia
+BES,535,BQ,"Bonaire, Saint-Eustache et Saba",US Dollar,,Caribbean Netherlands
+BIH,70,BA,Bosnie-Herzégovine,Convertible Mark,Bosnia and Herzegovina,Bosnia
+BWA,72,BW,Botswana,Pula,Botswana,Botswana
+BVT,74,BV,Île Bouvet,Norwegian Krone,,Bouvet Island
+BRA,76,BR,Brésil,Brazilian Real,Brazil,Brazil
+IOT,86,IO,Territoire britannique de l'océan Indien,US Dollar,,British Indian Ocean Territory
+VGB,92,VG,Îles Vierges britanniques,US Dollar,,British Virgin Islands
+BRN,96,BN,Brunéi Darussalam,Brunei Dollar,Brunei Darussalam,Brunei
+BGR,100,BG,Bulgarie,Bulgarian Lev,Bulgaria,Bulgaria
+BFA,854,BF,Burkina Faso,CFA Franc BCEAO,Burkina Faso,Burkina Faso
+BDI,108,BI,Burundi,Burundi Franc,Burundi,Burundi
+CPV,132,CV,Cabo Verde,Cabo Verde Escudo,Cabo Verde,Cape Verde
+KHM,116,KH,Cambodge,Riel,Cambodia,Cambodia
+CMR,120,CM,Cameroun,CFA Franc BEAC,Cameroon,Cameroon
+CAN,124,CA,Canada,Canadian Dollar,Canada,Canada
+CYM,136,KY,Îles Caïmanes,Cayman Islands Dollar,,Cayman Islands
+CAF,140,CF,République centrafricaine,CFA Franc BEAC,Central African Republic (the),Central African Republic
+TCD,148,TD,Tchad,CFA Franc BEAC,Chad,Chad
+CHL,152,CL,Chili,Chilean Peso,Chile,Chile
+CHN,156,CN,Chine,Yuan Renminbi,China,China
+HKG,344,HK,"Chine, région administrative spéciale de Hong Kong",Hong Kong Dollar,,Hong Kong
+MAC,446,MO,"Chine, région administrative spéciale de Macao",Pataca,,Macau
+CXR,162,CX,Île Christmas,Australian Dollar,,Christmas Island
+CCK,166,CC,Îles des Cocos (Keeling),Australian Dollar,,Cocos (Keeling) Islands
+COL,170,CO,Colombie,Colombian Peso,Colombia,Colombia
+COM,174,KM,Comores,Comorian Franc ,Comoros (the),Comoros
+COG,178,CG,Congo,CFA Franc BEAC,Congo (the),Congo - Brazzaville
+COK,184,CK,Îles Cook,New Zealand Dollar,Cook Islands (the)    **,Cook Islands
+CRI,188,CR,Costa Rica,Costa Rican Colon,Costa Rica,Costa Rica
+HRV,191,HR,Croatie,Kuna,Croatia,Croatia
+CUB,192,CU,Cuba,"Cuban Peso,Peso Convertible",Cuba,Cuba
+CUW,531,CW,Curaçao,Netherlands Antillean Guilder,,Curaçao
+CYP,196,CY,Chypre,Euro,Cyprus,Cyprus
+CZE,203,CZ,Tchéquie,Czech Koruna,Czech Republic (the),Czechia
+CIV,384,CI,Côte d'Ivoire,CFA Franc BCEAO,Côte d'Ivoire,Côte d’Ivoire
+PRK,408,KP,République populaire démocratique de Corée,North Korean Won,Democratic People's Republic of Korea (the),North Korea
+COD,180,CD,République démocratique du Congo,Congolese Franc,Democratic Republic of the Congo (the),Congo - Kinshasa
+DNK,208,DK,Danemark,Danish Krone,Denmark,Denmark
+DJI,262,DJ,Djibouti,Djibouti Franc,Djibouti,Djibouti
+DMA,212,DM,Dominique,East Caribbean Dollar,Dominica,Dominica
+DOM,214,DO,République dominicaine,Dominican Peso,Dominican Republic (the),Dominican Republic
+ECU,218,EC,Équateur,US Dollar,Ecuador,Ecuador
+EGY,818,EG,Égypte,Egyptian Pound,Egypt,Egypt
+SLV,222,SV,El Salvador,"El Salvador Colon,US Dollar",El Salvador,El Salvador
+GNQ,226,GQ,Guinée équatoriale,CFA Franc BEAC,Equatorial Guinea,Equatorial Guinea
+ERI,232,ER,Érythrée,Nakfa,Eritrea,Eritrea
+EST,233,EE,Estonie,Euro,Estonia,Estonia
+SWZ,748,SZ,Eswatini,Lilangeni,,Eswatini
+ETH,231,ET,Éthiopie,Ethiopian Birr,Ethiopia,Ethiopia
+FLK,238,FK,Îles Falkland (Malvinas),,,Falkland Islands
+FRO,234,FO,Îles Féroé,Danish Krone,,Faroe Islands
+FJI,242,FJ,Fidji,Fiji Dollar,Fiji,Fiji
+FIN,246,FI,Finlande,Euro,Finland,Finland
+FRA,250,FR,France,Euro,France,France
+GUF,254,GF,Guyane française,Euro,,French Guiana
+PYF,258,PF,Polynésie française,CFP Franc,,French Polynesia
+ATF,260,TF,Terres australes françaises,Euro,,French Southern Territories
+GAB,266,GA,Gabon,CFA Franc BEAC,Gabon,Gabon
+GMB,270,GM,Gambie,Dalasi,Gambia (the),Gambia
+GEO,268,GE,Géorgie,Lari,Georgia,Georgia
+DEU,276,DE,Allemagne,Euro,Germany,Germany
+GHA,288,GH,Ghana,Ghana Cedi,Ghana,Ghana
+GIB,292,GI,Gibraltar,Gibraltar Pound,,Gibraltar
+GRC,300,GR,Grèce,Euro,Greece,Greece
+GRL,304,GL,Groenland,Danish Krone,,Greenland
+GRD,308,GD,Grenade,East Caribbean Dollar,Grenada,Grenada
+GLP,312,GP,Guadeloupe,Euro,,Guadeloupe
+GUM,316,GU,Guam,US Dollar,,Guam
+GTM,320,GT,Guatemala,Quetzal,Guatemala,Guatemala
+GGY,831,GG,Guernesey,Pound Sterling,,Guernsey
+GIN,324,GN,Guinée,Guinean Franc,Guinea,Guinea
+GNB,624,GW,Guinée-Bissau,CFA Franc BCEAO,Guinea-Bissau,Guinea-Bissau
+GUY,328,GY,Guyana,Guyana Dollar,Guyana,Guyana
+HTI,332,HT,Haïti,"Gourde,US Dollar",Haiti,Haiti
+HMD,334,HM,Île Heard-et-Îles MacDonald,Australian Dollar,,Heard & McDonald Islands
+VAT,336,VA,Saint-Siège,Euro,Holy See (the)  *,Vatican City
+HND,340,HN,Honduras,Lempira,Honduras,Honduras
+HUN,348,HU,Hongrie,Forint,Hungary,Hungary
+ISL,352,IS,Islande,Iceland Krona,Iceland,Iceland
+IND,356,IN,Inde,Indian Rupee,India,India
+IDN,360,ID,Indonésie,Rupiah,Indonesia,Indonesia
+IRN,364,IR,Iran (République islamique d'),Iranian Rial,Iran (Islamic Republic of),Iran
+IRQ,368,IQ,Iraq,Iraqi Dinar,Iraq,Iraq
+IRL,372,IE,Irlande,Euro,Ireland,Ireland
+IMN,833,IM,Île de Man,Pound Sterling,,Isle of Man
+ISR,376,IL,Israël,New Israeli Sheqel,Israel,Israel
+ITA,380,IT,Italie,Euro,Italy,Italy
+JAM,388,JM,Jamaïque,Jamaican Dollar,Jamaica,Jamaica
+JPN,392,JP,Japon,Yen,Japan,Japan
+JEY,832,JE,Jersey,Pound Sterling,,Jersey
+JOR,400,JO,Jordanie,Jordanian Dinar,Jordan,Jordan
+KAZ,398,KZ,Kazakhstan,Tenge,Kazakhstan,Kazakhstan
+KEN,404,KE,Kenya,Kenyan Shilling,Kenya,Kenya
+KIR,296,KI,Kiribati,Australian Dollar,Kiribati,Kiribati
+KWT,414,KW,Koweït,Kuwaiti Dinar,Kuwait,Kuwait
+KGZ,417,KG,Kirghizistan,Som,Kyrgyzstan,Kyrgyzstan
+LAO,418,LA,République démocratique populaire lao,Lao Kip,Lao People's Democratic Republic (the),Laos
+LVA,428,LV,Lettonie,Euro,Latvia,Latvia
+LBN,422,LB,Liban,Lebanese Pound,Lebanon,Lebanon
+LSO,426,LS,Lesotho,"Loti,Rand",Lesotho,Lesotho
+LBR,430,LR,Libéria,Liberian Dollar,Liberia,Liberia
+LBY,434,LY,Libye,Libyan Dinar,Libya,Libya
+LIE,438,LI,Liechtenstein,Swiss Franc,Liechtenstein,Liechtenstein
+LTU,440,LT,Lituanie,Euro,Lithuania,Lithuania
+LUX,442,LU,Luxembourg,Euro,Luxembourg,Luxembourg
+MDG,450,MG,Madagascar,Malagasy Ariary,Madagascar,Madagascar
+MWI,454,MW,Malawi,Malawi Kwacha,Malawi,Malawi
+MYS,458,MY,Malaisie,Malaysian Ringgit,Malaysia,Malaysia
+MDV,462,MV,Maldives,Rufiyaa,Maldives,Maldives
+MLI,466,ML,Mali,CFA Franc BCEAO,Mali,Mali
+MLT,470,MT,Malte,Euro,Malta,Malta
+MHL,584,MH,Îles Marshall,US Dollar,Marshall Islands (the),Marshall Islands
+MTQ,474,MQ,Martinique,Euro,,Martinique
+MRT,478,MR,Mauritanie,Ouguiya,Mauritania,Mauritania
+MUS,480,MU,Maurice,Mauritius Rupee,Mauritius,Mauritius
+MYT,175,YT,Mayotte,Euro,,Mayotte
+MEX,484,MX,Mexique,Mexican Peso,Mexico,Mexico
+FSM,583,FM,Micronésie (États fédérés de),US Dollar,Micronesia (Federated States of),Micronesia
+MCO,492,MC,Monaco,Euro,Monaco,Monaco
+MNG,496,MN,Mongolie,Tugrik,Mongolia,Mongolia
+MNE,499,ME,Monténégro,Euro,Montenegro,Montenegro
+MSR,500,MS,Montserrat,East Caribbean Dollar,,Montserrat
+MAR,504,MA,Maroc,Moroccan Dirham,Morocco,Morocco
+MOZ,508,MZ,Mozambique,Mozambique Metical,Mozambique,Mozambique
+MMR,104,MM,Myanmar,Kyat,Myanmar,Myanmar
+NAM,516,NA,Namibie,"Namibia Dollar,Rand",Namibia,Namibia
+NRU,520,NR,Nauru,Australian Dollar,Nauru,Nauru
+NPL,524,NP,Népal,Nepalese Rupee,Nepal,Nepal
+NLD,528,NL,Pays-Bas,Euro,Netherlands (the),Netherlands
+NCL,540,NC,Nouvelle-Calédonie,CFP Franc,,New Caledonia
+NZL,554,NZ,Nouvelle-Zélande,New Zealand Dollar,New Zealand,New Zealand
+NIC,558,NI,Nicaragua,Cordoba Oro,Nicaragua,Nicaragua
+NER,562,NE,Niger,CFA Franc BCEAO,Niger (the),Niger
+NGA,566,NG,Nigéria,Naira,Nigeria,Nigeria
+NIU,570,NU,Nioué,New Zealand Dollar,Niue    **,Niue
+NFK,574,NF,Île Norfolk,Australian Dollar,,Norfolk Island
+MNP,580,MP,Îles Mariannes du Nord,US Dollar,,Northern Mariana Islands
+NOR,578,NO,Norvège,Norwegian Krone,Norway,Norway
+OMN,512,OM,Oman,Rial Omani,Oman,Oman
+PAK,586,PK,Pakistan,Pakistan Rupee,Pakistan,Pakistan
+PLW,585,PW,Palaos,US Dollar,Palau,Palau
+PAN,591,PA,Panama,"Balboa,US Dollar",Panama,Panama
+PNG,598,PG,Papouasie-Nouvelle-Guinée,Kina,Papua New Guinea,Papua New Guinea
+PRY,600,PY,Paraguay,Guarani,Paraguay,Paraguay
+PER,604,PE,Pérou,Sol,Peru,Peru
+PHL,608,PH,Philippines,Philippine Peso,Philippines (the),Philippines
+PCN,612,PN,Pitcairn,New Zealand Dollar,,Pitcairn Islands
+POL,616,PL,Pologne,Zloty,Poland,Poland
+PRT,620,PT,Portugal,Euro,Portugal,Portugal
+PRI,630,PR,Porto Rico,US Dollar,,Puerto Rico
+QAT,634,QA,Qatar,Qatari Rial,Qatar,Qatar
+KOR,410,KR,République de Corée,Won,Republic of Korea (the),South Korea
+MDA,498,MD,République de Moldova,Moldovan Leu,Republic of Moldova (the),Moldova
+ROU,642,RO,Roumanie,Romanian Leu,Romania,Romania
+RUS,643,RU,Fédération de Russie,Russian Ruble,Russian Federation (the),Russia
+RWA,646,RW,Rwanda,Rwanda Franc,Rwanda,Rwanda
+REU,638,RE,Réunion,Euro,,Réunion
+BLM,652,BL,Saint-Barthélemy,Euro,,St. Barthélemy
+SHN,654,SH,Sainte-Hélène,Saint Helena Pound,,St. Helena
+KNA,659,KN,Saint-Kitts-et-Nevis,East Caribbean Dollar,Saint Kitts and Nevis,St. Kitts & Nevis
+LCA,662,LC,Sainte-Lucie,East Caribbean Dollar,Saint Lucia,St. Lucia
+MAF,663,MF,Saint-Martin (partie française),Euro,,St. Martin
+SPM,666,PM,Saint-Pierre-et-Miquelon,Euro,,St. Pierre & Miquelon
+VCT,670,VC,Saint-Vincent-et-les Grenadines,East Caribbean Dollar,Saint Vincent and the Grenadines,St. Vincent & Grenadines
+WSM,882,WS,Samoa,Tala,Samoa,Samoa
+SMR,674,SM,Saint-Marin,Euro,San Marino,San Marino
+STP,678,ST,Sao Tomé-et-Principe,Dobra,Sao Tome and Principe,São Tomé & Príncipe
+,,,Sercq,,,
+SAU,682,SA,Arabie saoudite,Saudi Riyal,Saudi Arabia,Saudi Arabia
+SEN,686,SN,Sénégal,CFA Franc BCEAO,Senegal,Senegal
+SRB,688,RS,Serbie,Serbian Dinar,Serbia,Serbia
+SYC,690,SC,Seychelles,Seychelles Rupee,Seychelles,Seychelles
+SLE,694,SL,Sierra Leone,Leone,Sierra Leone,Sierra Leone
+SGP,702,SG,Singapour,Singapore Dollar,Singapore,Singapore
+SXM,534,SX,Saint-Martin (partie néerlandaise),Netherlands Antillean Guilder,,Sint Maarten
+SVK,703,SK,Slovaquie,Euro,Slovakia,Slovakia
+SVN,705,SI,Slovénie,Euro,Slovenia,Slovenia
+SLB,90,SB,Îles Salomon,Solomon Islands Dollar,Solomon Islands,Solomon Islands
+SOM,706,SO,Somalie,Somali Shilling,Somalia,Somalia
+ZAF,710,ZA,Afrique du Sud,Rand,South Africa,South Africa
+SGS,239,GS,Géorgie du Sud-et-les Îles Sandwich du Sud,No universal currency,,South Georgia & South Sandwich Islands
+SSD,728,SS,Soudan du Sud,South Sudanese Pound,South Sudan,South Sudan
+ESP,724,ES,Espagne,Euro,Spain,Spain
+LKA,144,LK,Sri Lanka,Sri Lanka Rupee,Sri Lanka,Sri Lanka
+PSE,275,PS,État de Palestine,No universal currency,State of Palestine  *,Palestine
+SDN,729,SD,Soudan,Sudanese Pound,Sudan (the),Sudan
+SUR,740,SR,Suriname,Surinam Dollar,Suriname,Suriname
+SJM,744,SJ,Îles Svalbard-et-Jan Mayen,Norwegian Krone,,Svalbard & Jan Mayen
+SWE,752,SE,Suède,Swedish Krona,Sweden,Sweden
+CHE,756,CH,Suisse,Swiss Franc,Switzerland,Switzerland
+SYR,760,SY,République arabe syrienne,Syrian Pound,Syrian Arab Republic,Syria
+TJK,762,TJ,Tadjikistan,Somoni,Tajikistan,Tajikistan
+THA,764,TH,Thaïlande,Baht,Thailand,Thailand
+MKD,807,MK,ex-République yougoslave de Macédoine,Denar,the former Yugoslav Republic of Macedonia,North Macedonia
+TLS,626,TL,Timor-Leste,US Dollar,Timor-Leste,Timor-Leste
+TGO,768,TG,Togo,CFA Franc BCEAO,Togo,Togo
+TKL,772,TK,Tokélaou,New Zealand Dollar,,Tokelau
+TON,776,TO,Tonga,Pa’anga,Tonga,Tonga
+TTO,780,TT,Trinité-et-Tobago,Trinidad and Tobago Dollar,Trinidad and Tobago,Trinidad & Tobago
+TUN,788,TN,Tunisie,Tunisian Dinar,Tunisia,Tunisia
+TUR,792,TR,Turquie,Turkish Lira,Turkey,Turkey
+TKM,795,TM,Turkménistan,Turkmenistan New Manat,Turkmenistan,Turkmenistan
+TCA,796,TC,Îles Turques-et-Caïques,US Dollar,,Turks & Caicos Islands
+TUV,798,TV,Tuvalu,Australian Dollar,Tuvalu,Tuvalu
+UGA,800,UG,Ouganda,Uganda Shilling,Uganda,Uganda
+UKR,804,UA,Ukraine,Hryvnia,Ukraine,Ukraine
+ARE,784,AE,Émirats arabes unis,UAE Dirham,United Arab Emirates (the),United Arab Emirates
+GBR,826,GB,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Pound Sterling,United Kingdom of Great Britain and Northern Ireland (the),UK
+TZA,834,TZ,République-Unie de Tanzanie,Tanzanian Shilling,United Republic of Tanzania (the),Tanzania
+UMI,581,UM,Îles mineures éloignées des États-Unis,US Dollar,,U.S. Outlying Islands
+VIR,850,VI,Îles Vierges américaines,US Dollar,,U.S. Virgin Islands
+USA,840,US,États-Unis d'Amérique,US Dollar,United States of America (the),US
+URY,858,UY,Uruguay,Peso Uruguayo,Uruguay,Uruguay
+UZB,860,UZ,Ouzbékistan,Uzbekistan Sum,Uzbekistan,Uzbekistan
+VUT,548,VU,Vanuatu,Vatu,Vanuatu,Vanuatu
+VEN,862,VE,Venezuela (République bolivarienne du),Bolívar,Venezuela (Bolivarian Republic of),Venezuela
+VNM,704,VN,Viet Nam,Dong,Viet Nam,Vietnam
+WLF,876,WF,Îles Wallis-et-Futuna,CFP Franc,,Wallis & Futuna
+ESH,732,EH,Sahara occidental,Moroccan Dirham,,Western Sahara
+YEM,887,YE,Yémen,Yemeni Rial,Yemen,Yemen
+ZMB,894,ZM,Zambie,Zambian Kwacha,Zambia,Zambia
+ZWE,716,ZW,Zimbabwe,Zimbabwe Dollar,Zimbabwe,Zimbabwe
+ALA,248,AX,Îles d'Åland,Euro,,Åland Islands

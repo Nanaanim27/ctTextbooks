@@ -1,0 +1,922 @@
+country,university
+AE,United Arab Emirates University
+AE,United Arab Emirates University
+AU,Australian National University
+AU,Australian National University
+AU,Australian National University
+AU,Charles Darwin University
+AU,Charles Darwin University
+AU,Deakin University
+AU,Deakin University
+AU,Griffith University
+AU,Griffith University
+AU,La Trobe University
+AU,La Trobe University
+AU,Macquarie University
+AU,Macquarie University
+AU,Monash University
+AU,Monash University
+AU,Murdoch University
+AU,Murdoch University
+AU,Queensland University of Technology
+AU,Queensland University of Technology
+AU,Swinburne University of Technology
+AU,Swinburne University of Technology
+AU,University of Adelaide
+AU,University of Adelaide
+AU,University of Melbourne
+AU,University of Melbourne
+AU,University of Newcastle
+AU,University of Newcastle
+AU,University of New South Wales
+AU,University of New South Wales
+AU,University of South Australia
+AU,University of South Australia
+AU,University of Sydney
+AU,University of Sydney
+AU,University of Sydney
+AU,University of Sydney
+AU,University of Tasmania
+AU,University of Tasmania
+AU,University of Western Australia
+AU,University of Western Australia
+AU,University of Wollongong
+AU,University of Wollongong
+BE,Vrije Universiteit Brussel
+BE,Vrije Universiteit Brussel
+CA,Carleton University
+CA,Carleton University
+CA,Concordia University
+CA,Concordia University
+CA,Dalhousie University
+CA,Dalhousie University
+CA,McGill University
+CA,McGill University
+CA,McGill University
+CA,McGill University
+CA,McMaster University
+CA,McMaster University
+CA,Memorial University of Newfoundland
+CA,Memorial University of Newfoundland
+CA,Simon Fraser University
+CA,Simon Fraser University
+CA,University of Alberta
+CA,University of Alberta
+CA,University of Alberta
+CA,University of British Columbia
+CA,University of British Columbia
+CA,University of British Columbia
+CA,University of British Columbia
+CA,University of Calgary
+CA,University of Calgary
+CA,University of Guelph
+CA,University of Guelph
+CA,University of Manitoba
+CA,University of Manitoba
+CA,University of Ottawa
+CA,University of Ottawa
+CA,University of Regina
+CA,University of Regina
+CA,University of Saskatchewan
+CA,University of Saskatchewan
+CA,University of Toronto
+CA,University of Toronto
+CA,University of Toronto
+CA,University of Toronto
+CA,University of Victoria
+CA,University of Victoria
+CA,University of Waterloo
+CA,University of Waterloo
+CA,York University
+CA,York University
+US,York University
+US,York University
+CH,University of Basel
+CH,University of Basel
+CH,University of Fribourg
+CH,University of Fribourg
+CH,University of Geneva
+CH,University of Geneva
+CH,University of Geneva
+CH,University of Geneva
+CH,University of Lausanne
+CH,University of Lausanne
+CN,Beijing Institute of Technology
+CN,Beijing Institute of Technology
+CN,China Agricultural University
+CN,China Agricultural University
+CN,Chongqing University
+CN,Chongqing University
+CN,Dalian University of Technology
+CN,Dalian University of Technology
+CN,East China Normal University
+CN,East China Normal University
+CN,East China University of Science and Technology
+CN,East China University of Science and Technology
+CN,Fudan University
+CN,Fudan University
+CN,Harbin Institute of Technology
+CN,Harbin Institute of Technology
+CN,Huazhong University of Science and Technology
+CN,Huazhong University of Science and Technology
+CN,Hunan University
+CN,Hunan University
+CN,Jilin University
+CN,Jilin University
+CN,Nanjing University
+CN,Nanjing University
+CN,Northeastern University
+CN,Northeastern University
+US,Northeastern University
+US,Northeastern University
+CN,Ocean University of China
+CN,Ocean University of China
+CN,Peking University
+CN,Peking University
+CN,Renmin University of China
+CN,Shanghai University
+CN,Shanghai University
+CN,Sichuan University
+CN,Sichuan University
+CN,South China University of Technology
+CN,South China University of Technology
+CN,Tianjin University
+CN,Tianjin University
+CN,Tongji University
+CN,Tongji University
+CN,Tsinghua University
+CN,Tsinghua University
+CN,University of Electronic Science and Technology of China
+CN,University of Electronic Science and Technology of China
+CN,University of Science and Technology Beijing
+CN,University of Science and Technology Beijing
+CN,University of Science and Technology of China
+CN,University of Science and Technology of China
+CN,Wuhan University
+CN,Wuhan University
+CN,Wuhan University of Technology
+CN,Wuhan University of Technology
+CN,Xiamen University
+CN,Xiamen University
+CN,Zhejiang University
+CN,Zhejiang University
+CY,University of Cyprus
+CY,University of Cyprus
+CZ,Masaryk University
+CZ,Masaryk University
+DK,Aalborg University
+DK,Aalborg University
+DK,Aarhus University
+DK,Aarhus University
+DK,Technical University of Denmark
+DK,Technical University of Denmark
+DK,University of Southern Denmark
+DK,University of Southern Denmark
+EE,University of Tartu
+EE,University of Tartu
+EG,Alexandria University
+EG,Alexandria University
+EG,Cairo University
+EG,Cairo University
+FI,Tampere University of Technology
+FI,Tampere University of Technology
+FI,University of Helsinki
+FI,University of Helsinki
+FI,University of Helsinki
+FI,University of Helsinki
+FI,University of Jyväskylä
+FI,University of Jyväskylä
+FI,University of Oulu
+FI,University of Oulu
+FI,University of Tampere
+FI,University of Tampere
+FI,University of Turku
+FI,University of Turku
+GB,Aston University
+GB,Aston University
+GB,Cardiff University
+GB,Cardiff University
+GB,Heriot-Watt University
+GB,Heriot-Watt University
+GB,Imperial College London
+GB,Imperial College London
+GB,Imperial College London
+GB,Imperial College London
+GB,Keele University
+GB,Keele University
+GB,Liverpool John Moores University
+GB,Liverpool John Moores University
+GB,Loughborough University
+GB,Loughborough University
+GB,University of Aberdeen
+GB,University of Aberdeen
+GB,University of Bath
+GB,University of Bath
+GB,University of Birmingham
+GB,University of Birmingham
+GB,University of Bradford
+GB,University of Bradford
+GB,University of Brighton
+GB,University of Brighton
+GB,University of Bristol
+GB,University of Bristol
+GB,University of Bristol
+GB,University of Cambridge
+GB,University of Cambridge
+GB,University of Cambridge
+GB,University of Cambridge
+GB,University of Central Lancashire
+GB,University of Dundee
+GB,University of Dundee
+GB,University of East Anglia
+GB,University of East Anglia
+GB,University of Edinburgh
+GB,University of Edinburgh
+GB,University of Edinburgh
+GB,University of Edinburgh
+GB,University of Essex
+GB,University of Essex
+GB,University of Exeter
+GB,University of Exeter
+GB,University of Glasgow
+GB,University of Glasgow
+GB,University of Hertfordshire
+GB,University of Hertfordshire
+GB,University of Hull
+GB,University of Hull
+GB,University of Leeds
+GB,University of Leeds
+GB,University of Leicester
+GB,University of Leicester
+GB,University of Liverpool
+GB,University of Liverpool
+GB,University of Manchester
+GB,University of Manchester
+GB,University of Manchester
+GB,University of Manchester
+GB,University of Nottingham
+GB,University of Nottingham
+GB,University of Nottingham
+GB,University of Oxford
+GB,University of Oxford
+GB,University of Oxford
+GB,University of Oxford
+GB,University of Portsmouth
+GB,University of Portsmouth
+GB,University of Reading
+GB,University of Reading
+GB,University of Sheffield
+GB,University of Sheffield
+GB,University of Southampton
+GB,University of Southampton
+GB,University of Stirling
+GB,University of Stirling
+GB,University of Strathclyde
+GB,University of Strathclyde
+GB,University of Surrey
+GB,University of Surrey
+GB,University of Sussex
+GB,University of Sussex
+GB,University of Warwick
+GB,University of Warwick
+GB,University of York
+GB,University of York
+GR,Aristotle University of Thessaloniki
+GR,Aristotle University of Thessaloniki
+GR,National Technical University of Athens
+GR,National Technical University of Athens
+GR,University of Crete
+GR,University of Crete
+GR,University of Ioannina
+GR,University of Ioannina
+GR,University of Patras
+GR,University of Patras
+HK,Chinese University of Hong Kong
+HK,Chinese University of Hong Kong
+HK,City University of Hong Kong
+HK,City University of Hong Kong
+HK,Hong Kong Baptist University
+HK,Hong Kong Baptist University
+HK,Hong Kong Polytechnic University
+HK,Hong Kong Polytechnic University
+HK,Hong Kong University of Science and Technology
+HK,Hong Kong University of Science and Technology
+HK,University of Hong Kong
+HK,University of Hong Kong
+HU,University of Szeged
+HU,University of Szeged
+IE,Dublin City University
+IE,Dublin City University
+IE,"National University of Ireland, Galway"
+IE,"National University of Ireland, Galway"
+IE,"National University of Ireland, Maynooth"
+IE,"National University of Ireland, Maynooth"
+IE,University College Cork
+IE,University College Cork
+IE,University College Dublin
+IE,University College Dublin
+IE,University of Limerick
+IE,University of Limerick
+IL,Bar-Ilan University
+IL,Bar-Ilan University
+IL,Ben-Gurion University of the Negev
+IL,Ben-Gurion University of the Negev
+IL,Hebrew University of Jerusalem
+IL,Hebrew University of Jerusalem
+IL,Hebrew University of Jerusalem
+IL,Hebrew University of Jerusalem
+IL,Tel Aviv University
+IL,Tel Aviv University
+IL,Tel Aviv University
+IL,Tel Aviv University
+IL,University of Haifa
+IL,University of Haifa
+IN,Indian Institute of Science
+IN,Indian Institute of Science
+IN,Jadavpur University
+IN,Jadavpur University
+IN,Panjab University
+IN,Panjab University
+IN,University of Calcutta
+IN,University of Delhi
+IN,University of Delhi
+IR,Amirkabir University of Technology
+IR,Amirkabir University of Technology
+IR,Isfahan University of Technology
+IR,Isfahan University of Technology
+IR,Sharif University of Technology
+IR,Sharif University of Technology
+IR,Tehran University of Medical Sciences
+IR,Tehran University of Medical Sciences
+IR,University of Tehran
+IR,University of Tehran
+IS,University of Iceland
+IS,University of Iceland
+IT,Catholic University of the Sacred Heart
+IT,Catholic University of the Sacred Heart
+IT,University of Bologna
+IT,University of Bologna
+IT,University of Brescia
+IT,University of Brescia
+IT,University of Cagliari
+IT,University of Cagliari
+IT,University of Catania
+IT,University of Catania
+IT,University of Ferrara
+IT,University of Ferrara
+IT,University of Florence
+IT,University of Florence
+IT,University of Genoa
+IT,University of Genoa
+IT,University of Milan
+IT,University of Milan
+IT,University of Naples Federico II
+IT,University of Naples Federico II
+IT,University of Padua
+IT,University of Padua
+IT,University of Palermo
+IT,University of Palermo
+IT,University of Parma
+IT,University of Parma
+IT,University of Pavia
+IT,University of Pavia
+IT,University of Pisa
+IT,University of Pisa
+IT,University of Siena
+IT,University of Siena
+IT,University of Trento
+IT,University of Trento
+IT,University of Trieste
+IT,University of Trieste
+IT,University of Turin
+IT,University of Turin
+JP,Chiba University
+JP,Chiba University
+JP,Ehime University
+JP,Ehime University
+JP,Gifu University
+JP,Gifu University
+JP,Hiroshima University
+JP,Hiroshima University
+JP,Hokkaido University
+JP,Hokkaido University
+JP,Juntendo University
+JP,Juntendo University
+JP,Kanazawa University
+JP,Kanazawa University
+JP,Keio University
+JP,Keio University
+JP,Keio University
+JP,Kobe University
+JP,Kobe University
+JP,Korea University
+JP,Korea University
+KR,Korea University
+KR,Korea University
+JP,Kumamoto University
+JP,Kumamoto University
+JP,Kyoto University
+JP,Kyoto University
+JP,Kyoto University
+JP,Kyoto University
+JP,Kyushu University
+JP,Kyushu University
+JP,Nagasaki University
+JP,Nagasaki University
+JP,Nagoya University
+JP,Nagoya University
+JP,Nagoya University
+JP,Nagoya University
+JP,Niigata University
+JP,Niigata University
+JP,Okayama University
+JP,Okayama University
+JP,Osaka City University
+JP,Osaka City University
+JP,Osaka University
+JP,Osaka University
+JP,Osaka University
+JP,Osaka University
+JP,Saitama University
+JP,Saitama University
+JP,Shinshu University
+JP,Shinshu University
+JP,Showa University
+JP,Showa University
+JP,Tohoku University
+JP,Tohoku University
+JP,Tohoku University
+JP,Tohoku University
+JP,Tokai University
+JP,Tokai University
+JP,Tokyo Institute of Technology
+JP,Tokyo Institute of Technology
+JP,Tokyo Metropolitan University
+JP,Tokyo Metropolitan University
+JP,Tokyo University of Agriculture and Technology
+JP,Tokyo University of Agriculture and Technology
+JP,Tottori University
+JP,Tottori University
+JP,Waseda University
+JP,Waseda University
+JP,Yokohama City University
+JP,Yokohama City University
+JP,Yokohama National University
+JP,Yokohama National University
+KR,Ajou University
+KR,Ajou University
+KR,Chonbuk National University
+KR,Chonbuk National University
+KR,Chonnam National University
+KR,Chonnam National University
+KR,Chung-Ang University
+KR,Chung-Ang University
+KR,Chungnam National University
+KR,Chungnam National University
+KR,Hanyang University
+KR,Hanyang University
+KR,Inha University
+KR,Inha University
+KR,Konkuk University
+KR,Konkuk University
+KR,Kyungpook National University
+KR,Kyungpook National University
+KR,Pohang University of Science and Technology
+KR,Pohang University of Science and Technology
+KR,Pusan National University
+KR,Pusan National University
+KR,Sejong University
+KR,Sejong University
+KR,Seoul National University
+KR,Seoul National University
+KR,Seoul National University
+KR,Seoul National University
+KR,Sogang University
+KR,Sogang University
+KR,Yeungnam University
+KR,Yeungnam University
+KR,Yonsei University
+KR,Yonsei University
+LB,American University of Beirut
+LB,American University of Beirut
+LT,Vilnius University
+LT,Vilnius University
+NL,Delft University of Technology
+NL,Delft University of Technology
+NL,Eindhoven University of Technology
+NL,Eindhoven University of Technology
+NL,Erasmus University Rotterdam
+NL,Erasmus University Rotterdam
+NL,Leiden University
+NL,Leiden University
+NL,Leiden University
+NL,Tilburg University
+NL,Tilburg University
+NL,University of Amsterdam
+NL,University of Amsterdam
+NL,University of Groningen
+NL,University of Groningen
+NL,University of Twente
+NL,University of Twente
+NL,Utrecht University
+NL,Utrecht University
+NL,Utrecht University
+NL,Utrecht University
+NO,Norwegian University of Science and Technology
+NO,Norwegian University of Science and Technology
+NO,University of Bergen
+NO,University of Bergen
+NO,University of Oslo
+NO,University of Oslo
+NO,University of Oslo
+NO,University of Oslo
+NZ,Massey University
+NZ,Massey University
+NZ,University of Auckland
+NZ,University of Auckland
+NZ,University of Canterbury
+NZ,University of Canterbury
+NZ,University of Otago
+NZ,University of Otago
+NZ,University of Waikato
+NZ,University of Waikato
+NZ,Victoria University of Wellington
+NZ,Victoria University of Wellington
+PH,Saint Louis University
+PH,Saint Louis University
+PL,AGH University of Science and Technology
+PL,AGH University of Science and Technology
+PL,University of Warsaw
+PL,University of Warsaw
+RO,University of Bucharest
+RO,University of Bucharest
+RS,University of Belgrade
+RS,University of Belgrade
+RU,Moscow Institute of Physics and Technology
+RU,Novosibirsk State University
+RU,Novosibirsk State University
+SA,King Saud University
+SA,King Saud University
+SE,Chalmers University of Technology
+SE,Chalmers University of Technology
+SE,Linköping University
+SE,Linköping University
+SE,Lund University
+SE,Lund University
+SE,Örebro University
+SE,Örebro University
+SE,Stockholm University
+SE,Stockholm University
+SE,Swedish University of Agricultural Sciences
+SE,Swedish University of Agricultural Sciences
+SE,Uppsala University
+SE,Uppsala University
+SG,Nanyang Technological University
+SG,Nanyang Technological University
+SG,National University of Singapore
+SG,National University of Singapore
+SG,National University of Singapore
+SI,University of Ljubljana
+SI,University of Ljubljana
+SI,University of Maribor
+SI,University of Maribor
+SK,Comenius University in Bratislava
+SK,Comenius University in Bratislava
+TH,Chiang Mai University
+TH,Chiang Mai University
+TH,Chulalongkorn University
+TH,Chulalongkorn University
+TH,Mahidol University
+TH,Mahidol University
+TR,Bilkent University
+TR,Bilkent University
+TR,Hacettepe University
+TR,Hacettepe University
+TR,Istanbul Technical University
+TR,Istanbul Technical University
+TR,Istanbul University
+TR,Istanbul University
+TR,Middle East Technical University
+TR,Middle East Technical University
+TW,Chang Gung University
+TW,Chang Gung University
+TW,Chung Yuan Christian University
+TW,Chung Yuan Christian University
+TW,Feng Chia University
+TW,Feng Chia University
+TW,Fu Jen Catholic University
+TW,Fu Jen Catholic University
+TW,I-Shou University
+TW,National Central University
+TW,National Central University
+TW,National Cheng Kung University
+TW,National Cheng Kung University
+TW,National Chiao Tung University
+TW,National Chiao Tung University
+TW,National Chung Cheng University
+TW,National Chung Cheng University
+TW,National Taipei University of Technology
+TW,National Taiwan Normal University
+TW,National Taiwan Normal University
+TW,National Taiwan Ocean University
+TW,National Taiwan Ocean University
+TW,National Taiwan University
+TW,National Taiwan University
+TW,Yuan Ze University
+TW,Yuan Ze University
+UG,Makerere University
+UG,Makerere University
+US,Arizona State University
+US,Arizona State University
+US,Arizona State University
+US,Arizona State University
+US,Auburn University
+US,Auburn University
+US,Boston College
+US,Boston College
+US,Boston University
+US,Boston University
+US,Boston University
+US,Boston University
+US,Brandeis University
+US,Brandeis University
+US,Brown University
+US,Brown University
+US,Brown University
+US,Brown University
+US,California Institute of Technology
+US,California Institute of Technology
+US,California Institute of Technology
+US,California Institute of Technology
+US,Carnegie Mellon University
+US,Carnegie Mellon University
+US,Carnegie Mellon University
+US,Carnegie Mellon University
+US,Case Western Reserve University
+US,Case Western Reserve University
+US,Case Western Reserve University
+US,Clemson University
+US,Clemson University
+US,Colorado School of Mines
+US,Colorado School of Mines
+US,Columbia University
+US,Columbia University
+US,Columbia University
+US,Columbia University
+US,Cornell University
+US,Cornell University
+US,Cornell University
+US,Cornell University
+US,Creighton University
+US,Creighton University
+US,Dartmouth College
+US,Dartmouth College
+US,Dartmouth College
+US,Dartmouth College
+US,Drexel University
+US,Drexel University
+US,Duke University
+US,Duke University
+US,Duke University
+US,Duke University
+US,Emory University
+US,Emory University
+US,Emory University
+US,Emory University
+US,Florida Institute of Technology
+US,Florida Institute of Technology
+US,Florida International University
+US,Florida International University
+US,Florida State University
+US,Florida State University
+US,George Mason University
+US,George Mason University
+US,Georgetown University
+US,Georgetown University
+US,George Washington University
+US,George Washington University
+US,Georgia Institute of Technology
+US,Georgia Institute of Technology
+US,Georgia Institute of Technology
+US,Georgia Institute of Technology
+US,Georgia State University
+US,Georgia State University
+US,Harvard University
+US,Harvard University
+US,Harvard University
+US,Harvard University
+US,Howard University
+US,Howard University
+US,Illinois Institute of Technology
+US,Illinois Institute of Technology
+US,Johns Hopkins University
+US,Johns Hopkins University
+US,Johns Hopkins University
+US,Johns Hopkins University
+US,Kansas State University
+US,Kansas State University
+US,Kent State University
+US,Kent State University
+US,Massachusetts Institute of Technology
+US,Massachusetts Institute of Technology
+US,Massachusetts Institute of Technology
+US,Massachusetts Institute of Technology
+US,Medical College of Wisconsin
+US,Medical College of Wisconsin
+US,Medical University of South Carolina
+US,Medical University of South Carolina
+US,Michigan State University
+US,Michigan State University
+US,Michigan Technological University
+US,Michigan Technological University
+US,Missouri University of Science and Technology
+US,Missouri University of Science and Technology
+US,New Jersey Institute of Technology
+US,New Jersey Institute of Technology
+US,New Mexico State University
+US,New Mexico State University
+US,New York University
+US,New York University
+US,New York University
+US,New York University
+US,North Carolina State University
+US,North Carolina State University
+US,Northwestern University
+US,Northwestern University
+US,Northwestern University
+US,Northwestern University
+US,Oakland University
+US,Oakland University
+US,Ohio University
+US,Ohio University
+US,Old Dominion University
+US,Old Dominion University
+US,Oregon State University
+US,Oregon State University
+US,Portland State University
+US,Portland State University
+US,Princeton University
+US,Princeton University
+US,Princeton University
+US,Princeton University
+US,Rensselaer Polytechnic Institute
+US,Rensselaer Polytechnic Institute
+US,Rice University
+US,Rice University
+US,Rice University
+US,Rice University
+US,Rochester Institute of Technology
+US,Rochester Institute of Technology
+US,Rush University
+US,Rush University
+US,San Diego State University
+US,San Diego State University
+US,Southern Methodist University
+US,Southern Methodist University
+US,Stanford University
+US,Stanford University
+US,Stanford University
+US,Stanford University
+US,Syracuse University
+US,Syracuse University
+US,Temple University
+US,Temple University
+US,Tufts University
+US,Tufts University
+US,Tufts University
+US,University of Arizona
+US,University of Arizona
+US,University of Arizona
+US,University of Arizona
+US,"University of California, Berkeley"
+US,"University of California, Berkeley"
+US,"University of California, Berkeley"
+US,"University of California, Berkeley"
+US,"University of California, Davis"
+US,"University of California, Davis"
+US,"University of California, Davis"
+US,"University of California, Davis"
+US,"University of California, Irvine"
+US,"University of California, Irvine"
+US,"University of California, Irvine"
+US,"University of California, Irvine"
+US,"University of California, Los Angeles"
+US,"University of California, Los Angeles"
+US,"University of California, Los Angeles"
+US,"University of California, Los Angeles"
+US,"University of California, Riverside"
+US,"University of California, Riverside"
+US,"University of California, San Diego"
+US,"University of California, San Diego"
+US,"University of California, San Diego"
+US,"University of California, San Diego"
+US,"University of California, Santa Barbara"
+US,"University of California, Santa Barbara"
+US,"University of California, Santa Barbara"
+US,"University of California, Santa Barbara"
+US,"University of California, Santa Cruz"
+US,"University of California, Santa Cruz"
+US,University of Chicago
+US,University of Chicago
+US,University of Chicago
+US,University of Chicago
+US,University of Cincinnati
+US,University of Cincinnati
+US,University of Connecticut
+US,University of Connecticut
+US,University of Delaware
+US,University of Delaware
+US,University of Florida
+US,University of Florida
+US,University of Florida
+US,University of Florida
+US,University of Georgia
+US,University of Georgia
+US,University of Houston
+US,University of Houston
+US,University of Idaho
+US,University of Idaho
+US,University of Illinois at Chicago
+US,University of Illinois at Chicago
+US,University of Iowa
+US,University of Iowa
+US,University of Kansas
+US,University of Kansas
+US,University of Kentucky
+US,University of Kentucky
+US,University of Miami
+US,University of Miami
+US,University of Nebraska Medical Center
+US,University of Nebraska Medical Center
+US,University of New Mexico
+US,University of New Mexico
+US,University of North Carolina at Chapel Hill
+US,University of North Carolina at Chapel Hill
+US,University of North Carolina at Chapel Hill
+US,University of North Carolina at Chapel Hill
+US,University of North Carolina at Greensboro
+US,University of North Carolina at Greensboro
+US,University of Notre Dame
+US,University of Notre Dame
+US,University of Oregon
+US,University of Oregon
+US,University of Pennsylvania
+US,University of Pennsylvania
+US,University of Pennsylvania
+US,University of Pennsylvania
+US,University of Rochester
+US,University of Rochester
+US,University of Rochester
+US,University of Rochester
+US,University of Southern California
+US,University of Southern California
+US,University of Southern California
+US,University of Southern California
+US,University of Southern Mississippi
+US,University of Southern Mississippi
+US,University of Texas at Arlington
+US,University of Texas at Arlington
+US,University of Texas at Austin
+US,University of Texas at Austin
+US,University of Texas at Austin
+US,University of Texas at Austin
+US,University of Texas at Dallas
+US,University of Texas at Dallas
+US,University of Texas at El Paso
+US,University of Texas at El Paso
+US,University of Texas at San Antonio
+US,University of Texas at San Antonio
+US,University of Toledo
+US,University of Toledo
+US,University of Utah
+US,University of Utah
+US,University of Utah
+US,University of Utah
+US,University of Vermont
+US,University of Vermont
+US,University of Virginia
+US,University of Virginia
+US,University of Virginia
+US,University of Virginia
+US,University of Wyoming
+US,University of Wyoming
+US,Vanderbilt University
+US,Vanderbilt University
+US,Vanderbilt University
+US,Vanderbilt University
+US,Wake Forest University
+US,Wake Forest University
+US,Wayne State University
+US,Wayne State University
+US,Yale University
+US,Yale University
+US,Yale University
+US,Yale University
+US,Yeshiva University
+US,Yeshiva University
+ZA,University of Cape Town
+ZA,University of Cape Town
+ZA,University of KwaZulu-Natal
+ZA,University of KwaZulu-Natal
+ZA,University of Pretoria
+ZA,University of Pretoria

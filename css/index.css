@@ -1,0 +1,293 @@
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+}
+
+h3
+{
+	text-align: center;
+}
+
+h4
+{
+	text-align: center;
+}
+
+nav ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+nav ul li
+{
+	float: left;
+}
+
+nav ul li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav ul li a:hover
+{
+	background-color: #111;
+}
+
+.rightnav
+{
+	float: right;
+}
+
+.rightnav li#account
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.rightnav li#account ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+/* https://css-tricks.com/solved-with-css-dropdown-menus/ */
+ul.dropdown
+{
+	display: block;
+	position: absolute;
+	visibility: hidden;
+	right: 0;
+	left: auto;
+}
+
+.rightnav li#account:hover ul
+{
+/*these 2 styles are very important,
+being the ones which make the drop-down to appear on hover */
+    visibility: visible;
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+
+ul.dropdown li
+{
+	display: block;
+	background-color: #666;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+/*.account
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}*/
+
+li.login
+{
+	float: left;
+}
+
+div ul
+{
+	list-style-type: none;
+}
+
+div ul li
+{
+	float: center;
+}
+
+div ul li a
+{
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.searchbar
+{
+	text-align: center;
+}
+
+.images
+{
+	text-align: center;
+}
+
+.images div
+{
+	text-align: center;
+	display: inline-block;
+	padding: 10px;
+}
+
+.button
+{
+	text-align: center;
+}
+
+img
+{
+	border-radius: 8px;
+	height: 180px;
+	width: 320px;
+}
+
+table
+{
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+td
+{
+	vertical-align: center;
+}
+
+th
+{
+	text-align: center;
+}
+
+tr:nth-child(even)
+{
+	background-color: #f2f2f2;
+}
+
+section
+{
+	display: inline;
+}
+
+section#textbooks
+{
+	width: 70%;
+	float: left;
+	padding: 20px;
+}
+
+section#authors
+{
+	width: 20%;
+	float: left;
+	padding: 20px;
+}
+
+section#courses
+{
+	width: 20%;
+	float: left;
+	padding: 20px;
+}
+
+section#universities
+{
+	width: 20%;
+	float: left;
+	padding: 20px;
+}
+
+section#professors
+{
+	width: 20%;
+	float: left;
+	padding: 20px;
+}
+
+section#subjects
+{
+	width: 20%;
+	float: left;
+	padding: 20px;
+}
+
+.results
+{
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+table#inputTextbooks
+{
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+div.stars
+{
+	width: 270px;
+	display: inline-block;
+}
+
+input.star
+{
+	
+}
+
+
+table#amazon
+{
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#map
+{
+	height: 100%;
+    left:50px;
+    top:150px;
+}
+
+#map 
+{
+         height: 100%;
+        margin: 0;
+        padding: 0;
+    width:550px;
+    height:550px;
+}
+
+
+#floating-panel
+{
+    position: absolute;
+    top: 150px;
+    left: 15%;
+    z-index: 5;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #999;
+    text-align: center;
+    font-family: "Roboto", "sans-serif";
+    line-height: 30px;
+    padding-left: 10px;
+}
