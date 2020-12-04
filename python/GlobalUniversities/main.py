@@ -122,8 +122,8 @@ def process_universities(schools, countries):
 
 
 def export_universities_to_mysql(info):
-    conn = mysql.connector.connect(user='admin_nana@ct-textbooks-server', password='zIvre4-wucsez-qokfyj',
-                                   host='ct-textbooks-server.mysql.database.azure.com', database='TextbookDB',
+    conn = mysql.connector.connect(user='USERNAME', password='PASSWORD',
+                                   host='SERVER', database='TextbookDB',
                                    ssl_ca='/Users/nana/Github/Create_Table_Textbooks/ssl/BaltimoreCyberTrustRoot.crt.pem')
     cursor = conn.cursor()
     for i in range(len(info)):
@@ -139,8 +139,8 @@ def export_universities_to_mysql(info):
 
 
 def generate_semesters():
-    conn = mysql.connector.connect(user='admin_nana@ct-textbooks-server', password='zIvre4-wucsez-qokfyj',
-                                   host='ct-textbooks-server.mysql.database.azure.com', database='TextbookDB',
+    conn = mysql.connector.connect(user='USERNAME', password='PASSWORD',
+                                   host='SERVER', database='TextbookDB',
                                    ssl_ca='/Users/nana/Github/Create_Table_Textbooks/ssl/BaltimoreCyberTrustRoot.crt.pem')
     cursor = conn.cursor()
     terms = ['FALL', 'SPRING', 'SUMMER', 'MAY']
@@ -187,8 +187,8 @@ def process_rate_my_professor(states):
 
     print(len(all_professors))
 
-    conn = mysql.connector.connect(user='admin_nana@ct-textbooks-server', password='zIvre4-wucsez-qokfyj',
-                                   host='ct-textbooks-server.mysql.database.azure.com', database='TextbookDB',
+    conn = mysql.connector.connect(user='USERNAME', password='PASSWORD',
+                                   host='SERVER', database='TextbookDB',
                                    ssl_ca='/Users/nana/Github/Create_Table_Textbooks/ssl/BaltimoreCyberTrustRoot.crt.pem')
 
     cursor = conn.cursor()
@@ -242,8 +242,8 @@ def process_us_universities(states):
 
     #   schools[longest_frame_name].to_csv('data/cleaned_longest_school_file.csv', index=False)
 
-    conn = mysql.connector.connect(user='admin_nana@ct-textbooks-server', password='zIvre4-wucsez-qokfyj',
-                                   host='ct-textbooks-server.mysql.database.azure.com', database='TextbookDB',
+    conn = mysql.connector.connect(user='USERNAME', password='PASSWORD',
+                                   host='SERVER', database='TextbookDB',
                                    ssl_ca='/Users/nana/Github/Create_Table_Textbooks/ssl/BaltimoreCyberTrustRoot.crt.pem')
     cursor = conn.cursor()
     for i in range(len(updated_data)):
